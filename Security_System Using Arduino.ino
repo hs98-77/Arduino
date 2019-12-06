@@ -108,6 +108,10 @@ void loop() {
    Serial.println(CZN_15E_STATE);
 
 
+
+
+
+
   
   char key=keypad.getKey();
   if(key != NO_KEY ){
